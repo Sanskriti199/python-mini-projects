@@ -1,4 +1,4 @@
-# Python Mini Projects — 2025
+# Python Mini Projects 2025
 This repository contains seven beginner-friendly Python projects.
 
 ## Why This Repository?
