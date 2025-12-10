@@ -27,8 +27,6 @@ Small tools to practice string handling, randomness, and basic algorithms.
 - Password Generator  
 - Quiz Game  
 
-## Project Goal
-To strengthen Python basics through short, self-contained scripts focusing on clarity, problem-solving, and clean structure rather than complexity.
 
 ## Key Learnings
 1. Improved understanding of Python fundamentals  
